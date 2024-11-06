@@ -91,7 +91,7 @@ menu = st.sidebar.selectbox("Menu", ["Página Principal", "Contato", "Sobre Amaz
 st.sidebar.markdown("""
     ## Mõka Bot
     ### Desenvolvido pela Tribo Legal
-    **GitHub**: [GitHub Repository](https://github.com/batestin1/)
+    **GitHub**: [GitHub Repository](https://github.com/batestin1/mokaBot)
 """)
 
 # Adicionando a imagem do bot na sidebar
