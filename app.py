@@ -151,6 +151,18 @@ if menu == "Página Principal":
 
             .withAppKey('bW9rYWJvdDE6OWVlMDhhZjItYzM5MS00MmUyLWI2MTEtNzZlZmNlMGE0Mzdi')
 
+			.withEventHandler(BlipChat.LOAD_EVENT, function () {
+
+      blipClient.sendMessage({
+
+                "type": "text/plain",
+
+                "content": "Olá poderia me ajudar"
+
+        });
+
+		})
+
             .withButton({"color":"#2CC3D5","icon":""})
 
             .withCustomCommonUrl('https://chat.blip.ai/')
@@ -177,7 +189,7 @@ if menu == "Página Principal":
 
 	
 
-</script> 
+</script>
     """
 
     # Renderiza o HTML e JavaScript
