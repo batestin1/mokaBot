@@ -118,9 +118,11 @@ menu = st.sidebar.selectbox("Menu", ["Página Principal", "Contato", "Sobre Amaz
 
 # Adicionando informações sobre o Bot e a Tribo Legal na sidebar
 st.sidebar.markdown("""
-    ## Mõka Bot
-    ### Desenvolvido pela Tribo Legal
-    **GitHub**: [GitHub Repository](https://github.com/batestin1/mokaBot)
+    ## O que faço?
+    - **Auxilio na elaboração de planos e orçamentos** (PPA, LDO, LOA).
+    - **Ofereço informações sobre políticas regionais e federais** como o PPCDAm.
+    - **Esclareço dúvidas sobre regulamentos e incentivos à redução do desmatamento.**
+    - **E muito mais...**
 """)
 
 # Adicionando a imagem do bot na sidebar
