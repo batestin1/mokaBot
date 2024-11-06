@@ -28,9 +28,8 @@ def get_base64_image(image_path):
 background_image_path = 'assets/wallpaper.jpg'
 background_image_base64 = get_base64_image(background_image_path)
 
-# CSS para o fundo e o título centralizado
+# Função para aplicar o estilo de fundo
 def set_background_style():
-    # Fundo padrão com a imagem
     st.markdown(
         f"""
         <style>
@@ -39,17 +38,32 @@ def set_background_style():
                 background-size: cover;
                 background-position: center;
                 background-repeat: no-repeat;
+                height: 100vh;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
             }}
             .title {{
-                position: absolute;
-                top: 10%;
-                left: 50%;
-                transform: translate(-50%, 190%);
                 font-size: 4em;
                 color: white;
                 text-shadow: 2px 2px 8px #4d0d9a;
                 font-weight: bold;
                 text-align: center;
+                margin: 0;
+            }}
+            /* Responsividade */
+            @media only screen and (max-width: 768px) {{
+                .title {{
+                    font-size: 2.5em;
+                    text-align: center;
+                }}
+            }}
+            @media only screen and (max-width: 480px) {{
+                .title {{
+                    font-size: 2em;
+                    padding: 10px;
+                }}
             }}
         </style>
         """,
@@ -62,22 +76,37 @@ def set_transparent_background():
         f"""
         <style>
             .stApp {{
-                background-color: rgba(255, 255, 255, 0.1); /* 70% de transparência para branco */
+                background-color: rgba(255, 255, 255, 0.7); /* 70% de transparência para branco */
                 background-image: url("data:image/jpg;base64,{background_image_base64}");
                 background-size: cover;
                 background-position: center;
                 background-repeat: no-repeat;
+                height: 100vh;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
             }}
             .title {{
-                position: absolute;
-                top: 10%;
-                left: 50%;
-                transform: translate(-50%, 190%);
                 font-size: 4em;
                 color: white;
                 text-shadow: 2px 2px 8px #4d0d9a;
                 font-weight: bold;
                 text-align: center;
+                margin: 0;
+            }}
+            /* Responsividade */
+            @media only screen and (max-width: 768px) {{
+                .title {{
+                    font-size: 2.5em;
+                    text-align: center;
+                }}
+            }}
+            @media only screen and (max-width: 480px) {{
+                .title {{
+                    font-size: 2em;
+                    padding: 10px;
+                }}
             }}
         </style>
         """,
@@ -103,19 +132,50 @@ if menu == "Página Principal":
     set_background_style()
     st.markdown('<div class="title">Mõka Bot!</div>', unsafe_allow_html=True)
     
-    # Função JavaScript para maximizar o Blip Chat e monitorar o botão de reset
-    maximized_chat_script = """<script src="https://unpkg.com/blip-chat-widget" type="text/javascript"></script>
-    <script>
-        (function () {
-            window.onload = function () {
-                new BlipChat() 
-                    .withAppKey('bW9rYWJvdDE6OWVlMDhhZjItYzM5MS00MmUyLWI2MTEtNzZlZmNlMGE0Mzdi')
-                    .withButton({"color":"#0096fa","icon":""})
-                    .withCustomCommonUrl('https://maycon-cypriano-batestin-1p16g.chat.blip.ai/')
-                    .build();
-            }
-        })();
-    </script>   
+    # Função JavaScript para maximizar o Blip Chat e manter sempre aberto
+    maximized_chat_script = """<script src="https://unpkg.com/blip-chat-widget" type="text/javascript">
+
+</script>
+
+<script>
+
+    (function () {
+
+        window.onload = function () {
+
+		
+
+           blipClient  = new BlipChat()
+
+            .withAppKey('bW9rYWJvdDE6OWVlMDhhZjItYzM5MS00MmUyLWI2MTEtNzZlZmNlMGE0Mzdi')
+
+            .withButton({"color":"#2CC3D5","icon":""})
+
+            .withCustomCommonUrl('https://chat.blip.ai/')
+
+             
+
+			
+
+			blipClient.build();
+
+			window.setTimeout(function() { blipClient.toogleChat() }, 500); 
+
+			const blipChatButton = document.getElementById('blip-chat-open-iframe')
+
+			blipChatButton.classList.remove('opened')
+
+
+
+
+
+        }
+
+    })();
+
+	
+
+</script> 
     """
 
     # Renderiza o HTML e JavaScript
