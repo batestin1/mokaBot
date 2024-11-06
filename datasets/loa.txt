@@ -1,0 +1,333 @@
+Menu
+
+  * Assuntos <#>Open submenu <#mm-3>
+  * Institucional <#>Open submenu <#mm-4>
+  * Deputados <#>Open submenu <#mm-5>
+  * Atividade Legislativa <#>Open submenu <#mm-6>
+  * Comunicação <#>Open submenu <#mm-7>
+  * Transparência e prestação de contas <#>Open submenu <#mm-8>
+
+  * Vlibras <https://www2.camara.leg.br/acessibilidade/vlibras>
+  * Acessibilidade <https://www2.camara.leg.br/acessibilidade/recursos-
+    de-acessibilidade>
+  * Fale Conosco <https://www.camara.leg.br/fale-conosco>
+
+PT
+
+  * English EN <https://www2.camara.leg.br/english>
+  * Español ES <https://www2.camara.leg.br/espanol>
+
+Close submenu <#mm-2>Assuntos <#mm-2>
+
+  * Agropecuária <https://www.camara.leg.br/temas/agropecuaria>
+  * Cidades e transportes <https://www.camara.leg.br/temas/cidades-e-
+    transportes>
+  * Ciência, tecnologia e comunicações <https://www.camara.leg.br/temas/
+    ciencia-tecnologia-e-comunicacoes>
+  * Consumidor <https://www.camara.leg.br/temas/consumidor>
+  * Direitos humanos <https://www.camara.leg.br/temas/direitos-humanos>
+  * Economia <https://www.camara.leg.br/temas/economia>
+  * Educação, cultura e esportes <https://www.camara.leg.br/temas/
+    educacao-cultura-e-esportes>
+  * Meio ambiente e energia <https://www.camara.leg.br/temas/meio-
+    ambiente-e-energia>
+  * Política e administração pública <https://www.camara.leg.br/temas/
+    politica-e-administracao-publica>
+  * Relações exteriores <https://www.camara.leg.br/temas/relacoes-
+    exteriores>
+  * Saúde <https://www.camara.leg.br/temas/saude>
+  * Segurança <https://www.camara.leg.br/temas/seguranca>
+  * Trabalho, previdência e assistência <https://www.camara.leg.br/
+    temas/trabalho-previdencia-e-assistencia> 
+
+Close submenu <#mm-2>Institucional <#mm-2>
+
+  * Agenda <https://www.camara.leg.br/agenda>
+  * Serviços <https://www2.camara.leg.br/transparencia/servicos-ao-cidadao>
+  * Presidência <https://www2.camara.leg.br/a-camara/estruturaadm/mesa/
+    presidencia>
+  * Biblioteca e publicações <https://www.camara.leg.br/biblioteca-e-
+    publicacoes/>
+  * Escola da Câmara <https://www.camara.leg.br/escola-da-camara/>
+  * Papel e estrutura <https://www.camara.leg.br/papel-e-estrutura/>
+  * História e arquivo <https://www.camara.leg.br/historia-e-arquivo/>
+  * Visite <https://www2.camara.leg.br/a-camara/visiteacamara> 
+
+Close submenu <#mm-2>Deputados <#mm-2>
+
+  * Quem são <https://www.camara.leg.br/deputados/quem-sao>
+  * Lideranças e bancadas <https://www.camara.leg.br/deputados/lideres-
+    e-vice-lideres-dos-partidos>
+  * Frentes e grupos parlamentares <https://www2.camara.leg.br/
+    deputados/frentes-e-grupos-parlamentares> 
+
+Close submenu <#mm-2>Atividade Legislativa <#mm-2>
+
+  * Propostas legislativas <https://www.camara.leg.br/busca-portal/
+    proposicoes/pesquisa-simplificada>
+  * Plenário <https://www.camara.leg.br/plenario>
+  * Comissões <https://www.camara.leg.br/comissoes>
+  * Discursos e debates <https://www2.camara.leg.br/atividade-
+    legislativa/discursos-e-notas-taquigraficas>
+  * Estudos legislativos <https://www2.camara.leg.br/atividade-
+    legislativa/estudos-e-notas-tecnicas>
+  * Orçamento da União <https://www2.camara.leg.br/atividade-
+    legislativa/orcamento-da-uniao>
+  * Legislação <https://www.camara.leg.br/legislacao>
+  * Entenda o processo legislativo <https://www.camara.leg.br/entenda-o-
+    processo-legislativo/>
+  * Participe <https://www2.camara.leg.br/atividade-legislativa/participe> 
+
+Close submenu <#mm-2>Comunicação <#mm-2>
+
+  * Agência Câmara de Notícias <https://www.camara.leg.br/noticias>
+  * TV Câmara <https://www.camara.leg.br/tv>
+  * Rádio Câmara <https://www.camara.leg.br/radio>
+  * Banco de Imagens <https://www.camara.leg.br/banco-imagens>
+  * Assessoria de Imprensa <https://www.camara.leg.br/assessoria-de-
+    imprensa>
+  * Comprove uma notícia <https://www.camara.leg.br/comprove> 
+
+Close submenu <#mm-2>Transparência e prestação de contas <#mm-2>
+
+  * Transparência <https://www.camara.leg.br/transparencia/>
+  * Prestação de contas <https://www2.camara.leg.br/transparencia/
+    prestacao-de-contas>
+  * Dados abertos <https://dadosabertos.camara.leg.br/> 
+
+  * Ir ao conteúdo <#main-content>
+  * Ir à navegação principal <#main-nav>
+
+Página inicial <https://www.camara.leg.br/>
+
+  * Vlibras <https://www2.camara.leg.br/acessibilidade/vlibras>
+  * Acessibilidade <https://www2.camara.leg.br/acessibilidade/recursos-
+    de-acessibilidade>
+  * Fale Conosco <https://www.camara.leg.br/fale-conosco>
+
+  * Congresso <http://www.congressonacional.leg.br/>
+  * Senado <http://www.senado.leg.br/>
+
+PT
+
+  * English EN <https://www2.camara.leg.br/english>
+  * Español ES <https://www2.camara.leg.br/espanol>
+
+Página inicial <https://www.camara.leg.br/>
+
+  * Assuntos <#>
+      o Agropecuária <https://www.camara.leg.br/temas/agropecuaria>
+      o Cidades e transportes <https://www.camara.leg.br/temas/cidades-
+        e-transportes>
+      o Ciência, tecnologia e comunicações <https://www.camara.leg.br/
+        temas/ciencia-tecnologia-e-comunicacoes>
+      o Consumidor <https://www.camara.leg.br/temas/consumidor>
+      o Direitos humanos <https://www.camara.leg.br/temas/direitos-humanos>
+      o Economia <https://www.camara.leg.br/temas/economia>
+      o Educação, cultura e esportes <https://www.camara.leg.br/temas/
+        educacao-cultura-e-esportes>
+      o Meio ambiente e energia <https://www.camara.leg.br/temas/meio-
+        ambiente-e-energia>
+      o Política e administração pública <https://www.camara.leg.br/
+        temas/politica-e-administracao-publica>
+      o Relações exteriores <https://www.camara.leg.br/temas/relacoes-
+        exteriores>
+      o Saúde <https://www.camara.leg.br/temas/saude>
+      o Segurança <https://www.camara.leg.br/temas/seguranca>
+      o Trabalho, previdência e assistência <https://www.camara.leg.br/
+        temas/trabalho-previdencia-e-assistencia>
+  * Institucional <#>
+      o Agenda <https://www.camara.leg.br/agenda>
+      o Serviços <https://www2.camara.leg.br/transparencia/servicos-ao-
+        cidadao>
+      o Presidência <https://www2.camara.leg.br/a-camara/estruturaadm/
+        mesa/presidencia>
+      o Biblioteca e publicações <https://www.camara.leg.br/biblioteca-
+        e-publicacoes/>
+      o Escola da Câmara <https://www.camara.leg.br/escola-da-camara/>
+      o Papel e estrutura <https://www.camara.leg.br/papel-e-estrutura/>
+      o História e arquivo <https://www.camara.leg.br/historia-e-arquivo/>
+      o Visite <https://www2.camara.leg.br/a-camara/visiteacamara>
+  * Deputados <#>
+      o Quem são <https://www.camara.leg.br/deputados/quem-sao>
+      o Lideranças e bancadas <https://www.camara.leg.br/deputados/
+        lideres-e-vice-lideres-dos-partidos>
+      o Frentes e grupos parlamentares <https://www2.camara.leg.br/
+        deputados/frentes-e-grupos-parlamentares>
+  * Atividade Legislativa <#>
+      o Propostas legislativas <https://www.camara.leg.br/busca-portal/
+        proposicoes/pesquisa-simplificada>
+      o Plenário <https://www.camara.leg.br/plenario>
+      o Comissões <https://www.camara.leg.br/comissoes>
+      o Discursos e debates <https://www2.camara.leg.br/atividade-
+        legislativa/discursos-e-notas-taquigraficas>
+      o Estudos legislativos <https://www2.camara.leg.br/atividade-
+        legislativa/estudos-e-notas-tecnicas>
+      o Orçamento da União <https://www2.camara.leg.br/atividade-
+        legislativa/orcamento-da-uniao>
+      o Legislação <https://www.camara.leg.br/legislacao>
+      o Entenda o processo legislativo <https://www.camara.leg.br/
+        entenda-o-processo-legislativo/>
+      o Participe <https://www2.camara.leg.br/atividade-legislativa/
+        participe>
+  * Comunicação <#>
+      o Agência Câmara de Notícias <https://www.camara.leg.br/noticias>
+      o TV Câmara <https://www.camara.leg.br/tv>
+      o Rádio Câmara <https://www.camara.leg.br/radio>
+      o Banco de Imagens <https://www.camara.leg.br/banco-imagens>
+      o Assessoria de Imprensa <https://www.camara.leg.br/assessoria-de-
+        imprensa>
+      o Comprove uma notícia <https://www.camara.leg.br/comprove>
+  * Transparência e prestação de contas <#>
+      o Transparência <https://www.camara.leg.br/transparencia/>
+      o Prestação de contas <https://www2.camara.leg.br/transparencia/
+        prestacao-de-contas>
+      o Dados abertos <https://dadosabertos.camara.leg.br/>
+
+  * Vlibras <https://www2.camara.leg.br/acessibilidade/vlibras>
+  * Acessibilidade <https://www2.camara.leg.br/acessibilidade/recursos-
+    de-acessibilidade>
+  * Fale Conosco <https://www.camara.leg.br/fale-conosco>
+
+PT
+
+  * English EN <https://www2.camara.leg.br/english>
+  * Español ES <https://www2.camara.leg.br/espanol>
+
+Pesquise no Portal da Câmara
+
+Início <https://www2.camara.leg.br/> / Orçamento da União <https://
+www2.camara.leg.br/orcamento-da-uniao> / Leis orçamentárias <https://
+www2.camara.leg.br/orcamento-da-uniao/leis-orcamentarias> / Esta página
+
+
+  Orçamento da União
+
+// Compartilhe
+
+Menu desta seção
+//
+//
+Navegação Local
+
+  * Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    <https://www2.camara.leg.br/orcamento-da-uniao/comissao-mista-de-
+    planos-orcamentos-publicos-e-fiscalizacao>
+  * Leis orçamentárias
+      o LOA - Lei Orçamentária Anual <https://www2.camara.leg.br/
+        orcamento-da-uniao/leis-orcamentarias/loa>
+      o LDO - Lei de Diretrizes Orçamentárias <https://
+        www2.camara.leg.br/orcamento-da-uniao/leis-orcamentarias/ldo>
+      o PPA - Plano Plurianual <https://www2.camara.leg.br/orcamento-da-
+        uniao/leis-orcamentarias/ppa>
+      o Créditos adicionais <https://www2.camara.leg.br/orcamento-da-
+        uniao/leis-orcamentarias/creditos>
+  * Obras com indícios de irregularidades graves <https://
+    www2.camara.leg.br/orcamento-da-uniao/obras-com-indicios-de-
+    irregularidades-graves>
+  * Contas presidenciais <https://www2.camara.leg.br/orcamento-da-uniao/
+    contas-presidenciais>
+  * Entenda o Orçamento <https://www2.camara.leg.br/orcamento-da-uniao/
+    entenda>
+  * Legislação sobre Orçamento <https://www2.camara.leg.br/orcamento-da-
+    uniao/legislacao_correlata>
+  * Fiscalize
+      o Execução orçamentária <https://www2.camara.leg.br/orcamento-da-
+        uniao/fiscalize/execucao-orcamentaria>
+      o Transferências <https://www2.camara.leg.br/orcamento-da-uniao/
+        fiscalize/transferencias>
+      o Convênios <https://www2.camara.leg.br/orcamento-da-uniao/
+        fiscalize/execucao-por-convenios>
+
+Início <https://www2.camara.leg.br/> / Orçamento da União <https://
+www2.camara.leg.br/orcamento-da-uniao> / Leis orçamentárias <https://
+www2.camara.leg.br/orcamento-da-uniao/leis-orcamentarias> / Esta página
+×
+
+*Info*KSS portal message
+whatsapp Facebook Twitter E-mail Mais
+
+
+      LOA - Lei orçamentária Anual
+
+Prevê as receitas e fixa as despesas do governo federal para o ano
+seguinte, indicando quanto será aplicado em cada área e de onde virão os
+recursos.
+Entre outros itens, a LOA:
+- Projeta parâmetros macroeconômicos, como o Produto Interno Bruto
+(PIB), a inflação e a taxa de juros;
+- Prevê a arrecadação do governo com tributos e outras fontes de recursos;
+- Define metas para a política fiscal - medidas que o governo toma para
+equilibrar suas despesas e receitas;
+- Define os valores que a União poderá usar para investimentos e
+financiamentos, por área;
+- Define despesas determinadas por sentenças judiciais, chamadas
+precatórios;
+- Lista as obras e serviços com indícios de irregularidades graves.
+
+Selecione o ano
+
+
+        Lei Orçamentária Anual para 2025
+
+*Projeto de Lei  n° 26, de 2024-CN <https://
+www.congressonacional.leg.br/materias/pesquisa/-/materia/165205> */
+/
+
+ 
+
+ 
+
+*Relator-geral: Senador Angelo Coronel (PSD/BA)*
+
+  * Tramitação <#tramitacao>
+
+Tramitação no Congresso Nacional 	
+Estado do item
+Informações encaminhadas sobre obras e/ou serviços com indícios de
+irregularidades graves para subsidiar a discussão do PLOA 2025 <https://
+www2.camara.leg.br/orcamento-da-uniao/leis-orcamentarias/loa/2025/
+tramitacao/obras-com-indicios-de-irregularidades> 	
+Em Andamento
+Emendas ao Projeto de Lei <https://www2.camara.leg.br/orcamento-da-
+uniao/leis-orcamentarias/loa/2025/tramitacao/emendas-ao-projeto-de-lei-
+exceto-as-da-receita> 	
+Em Andamento
+Notas Técnicas e Informativos Conjuntos <https://www2.camara.leg.br/
+orcamento-da-uniao/leis-orcamentarias/loa/2025/tramitacao/notas-
+tecnicas-e-informativos-conjuntos> 	
+Em Andamento
+Proposta do Poder Executivo <https://www2.camara.leg.br/orcamento-da-
+uniao/leis-orcamentarias/loa/2025/tramitacao/proposta-do-poder-executivo> 	
+Em Andamento
+
+*57ª Legislatura - 2ª Sessão Legislativa Ordinária*
+
+Câmara dos Deputados - Palácio do Congresso Nacional - Praça dos Três
+Poderes Brasília - DF - Brasil - CEP 70160-900 CNPJ: 00.530.352/0001-59
+
+  * Disque-Câmara: 0800-0-619-619, de 8h às 20h
+  * Atendimento presencial: de 9h às 19h
+
+// <https://www2.camara.leg.br/login_form>
+
+  * Whatsapp <https://whatsapp.com/channel/0029Va2fexI3gvWgfMs6Fv31>
+  * Telegram <https://t.me/CamaradosDeputados>
+  * Facebook <https://www.facebook.com/camaradeputados>
+  * X <https://twitter.com/camaradeputados>
+  * Tiktok <https://tiktok.com/@camaradosdeputados>
+  * Instagram <https://www.instagram.com/camaradeputados>
+
+  * Sobre o Portal <https://www2.camara.leg.br/sobre-o-portal>
+  * Termos de Uso <https://www2.camara.leg.br/termo-de-uso-e-politica-
+    de-privacidade>
+  * Aplicativos <https://www2.camara.leg.br/aplicativos/>
+  * Extranet <https://camaranet.camara.leg.br/>
+
+
+          Carregando
+
+Por favor, aguarde.
+
+Close menu <#mm-1>
+
