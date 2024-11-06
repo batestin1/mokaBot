@@ -114,7 +114,7 @@ def set_transparent_background():
     )
 
 # Menu de navegação
-menu = st.sidebar.selectbox("Menu", ["Página Principal", "Contato", "Sobre Amazônia Legal"])
+menu = st.sidebar.selectbox("Menu", ["Página Principal",  "Sobre Amazônia Legal", "Objetivos", "Contato",])
 
 # Adicionando informações sobre o Bot e a Tribo Legal na sidebar
 st.sidebar.markdown("""
@@ -195,7 +195,36 @@ if menu == "Página Principal":
     # Renderiza o HTML e JavaScript
     html(maximized_chat_script, height=600, width=900, scrolling=True)
 
-# Página de Contato
+#
+
+# Página Sobre Amazônia Legal
+elif menu == "Sobre Amazônia Legal":
+    set_transparent_background()
+    st.header("Sobre Amazônia Legal")
+    st.write("""
+        A Amazônia Legal é uma área de 5,1 milhões de quilômetros quadrados que corresponde a 60% do território brasileiro. 
+        Ela é composta por oito estados (Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima e Tocantins) e parte do Maranhão, 
+        a oeste do meridiano de 44ºW.
+        
+        A Amazônia Legal foi criada pelo governo de Getúlio Vargas, em 1953, com o objetivo de promover o desenvolvimento econômico e social da região. 
+        Atualmente, a região é administrada pela Superintendência de Desenvolvimento da Amazônia (SUDAM), uma autarquia federal vinculada ao Ministério do Desenvolvimento Regional.
+        
+        A Amazônia Legal é importante para a proteção do meio ambiente e dos povos tradicionais. A região é rica em biodiversidade, com uma grande variedade de ecossistemas e paisagens, 
+        como a floresta tropical, o Cerrado e o Pantanal. Além disso, a Amazônia Legal abriga 51% dos indígenas brasileiros.
+    """)
+
+elif menu == "Objetivos":
+    set_transparent_background()
+    st.header("Objetivos")
+    st.write("""
+        1) Auxiliar gestores a elaborar planos e orçamentos (PPA, LDO, LOA) com base nas necessidades e vocações locais.
+        2) Sugerir práticas de planejamento sustentável e de preservação ambiental.
+        3) Oferecer informações sobre as políticas regionais e federais aplicáveis, como o Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia (PPCDAm).
+        4) Explicar e responder a dúvidas sobre regulamentos e programas federais, como os de incentivo à redução do desmatamento.
+        5) Oferecer assistência em tempo real para resolver dúvidas frequentes dos gestores, como leis e normas, orçamento e gestão fiscal, usando uma base de conhecimento ou respostas prontas.
+    """)
+
+ #Página de Contato
 elif menu == "Contato":
     set_transparent_background()
     st.header("Contato")
@@ -213,19 +242,3 @@ elif menu == "Contato":
     # Confirmação de envio
     if submit_button:
         st.success("Mensagem recebida com sucesso!")
-
-# Página Sobre Amazônia Legal
-elif menu == "Sobre Amazônia Legal":
-    set_transparent_background()
-    st.header("Sobre Amazônia Legal")
-    st.write("""
-        A Amazônia Legal é uma área de 5,1 milhões de quilômetros quadrados que corresponde a 60% do território brasileiro. 
-        Ela é composta por oito estados (Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima e Tocantins) e parte do Maranhão, 
-        a oeste do meridiano de 44ºW.
-        
-        A Amazônia Legal foi criada pelo governo de Getúlio Vargas, em 1953, com o objetivo de promover o desenvolvimento econômico e social da região. 
-        Atualmente, a região é administrada pela Superintendência de Desenvolvimento da Amazônia (SUDAM), uma autarquia federal vinculada ao Ministério do Desenvolvimento Regional.
-        
-        A Amazônia Legal é importante para a proteção do meio ambiente e dos povos tradicionais. A região é rica em biodiversidade, com uma grande variedade de ecossistemas e paisagens, 
-        como a floresta tropical, o Cerrado e o Pantanal. Além disso, a Amazônia Legal abriga 51% dos indígenas brasileiros.
-    """)
