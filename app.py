@@ -6,7 +6,7 @@ from io import BytesIO
 from streamlit.components.v1 import html
 from PyPDF2 import PdfReader
 
-# Função para ler a imagem de fundo e convertê-la em base64
+
 def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode()
